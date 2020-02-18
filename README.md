@@ -1,3 +1,11 @@
+<h1 align="center">
+    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
+</h1>
+
+<h3 align="center">
+  Desafio 4: Introdução ao React
+</h3>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -37,32 +45,20 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## :rocket: Sobre o desafio
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Crie uma aplicação do zero utilizando **Webpack, Babel, Webpack Dev Server e ReactJS**.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Nessa aplicação você irá desenvolver uma **interface** semelhante com a do **Facebook** utilizando React.
 
-### Code Splitting
+As informações contidas na interface são **estáticas** e não precisam refletir nenhuma API REST ou back-end.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+### Tela da aplicação
 
-### Analyzing the Bundle Size
+![Facebook](.github/facebook.png)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+O layout não precisa ficar exatamente igual, você pode utilizar sua criatividade para modificar da maneira que preferir.
 
-### Making a Progressive Web App
+O mais importante é que todos elementos apareçam em tela.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+O layout da aplicação está [nesse link](.github/layout.sketch) que pode ser aberto por essa ferramenta gratuita e online: https://www.figma.com/
