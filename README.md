@@ -8,6 +8,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![](bootcamp-gostack-desafio-04.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
